@@ -1,4 +1,4 @@
-#  SHIVASAI Gourishetti
+#  Shivasai Gourishetti
 
 # 👨‍💻 DevOps Engineer |AWS Certified Developer Associate
 
